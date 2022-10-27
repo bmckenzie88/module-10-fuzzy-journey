@@ -1,4 +1,4 @@
-# module-10-team profile generator
+# Module-10-team profile generator
 
 ## Description
 
@@ -15,7 +15,7 @@ N/A
 ## Usage
 
 
-The application is invoked using the follwing command:
+This application uses [Jest](https://www.npmjs.com/package/jest) for running the unit tests and [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4) for collecting input from the user. The application is invoked using the follwing command:
 
 ```bash
 node index.js
@@ -24,10 +24,10 @@ node index.js
 Once the application is finished running, a file named 'team.html' will be generated and stored within the 'dist' folder.
 
 
-You can view a walkthrough video demonstrating the functionality of the application [here](https://drive.google.com/file/d/1KXKu10TAkdJe_mOoqM-OyR22KztyDcaR/view).
+You can view a walkthrough video demonstrating the functionality of the application [here]().
 
 
-The repo for this application can be found [here](https://github.com/bmckenzie88/upgraded-potato).
+The repo for this application can be found [here](https://github.com/bmckenzie88/module-10-fuzzy-journey).
 
 
 ## Credits
